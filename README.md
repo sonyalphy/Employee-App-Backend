@@ -1,2 +1,8 @@
-# Employee-App-Backend
-Employee CRUD operations using nodejs and mongo
+
+`$ cd node-ems`
+
+`$ npm install`
+
+`$ npm run devstart`
+
+`http://localhost:3000/`
